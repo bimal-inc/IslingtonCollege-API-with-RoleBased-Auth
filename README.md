@@ -1,4 +1,17 @@
-# islingtoncollege
+
+# IslingtonCollege-API-with-RoleBased-Auth
+## Please Fork this Repository and Give it a Star.
+
+## FEATURES of this APP.
+- MVVM Pattern for app Architecture
+- this app includes Role based auth with firebase
+- Sign in Screen and Register with Auth protocols.
+- Multiple Views for Teachers and Students.
+- Models for API
+- Local Notifications
+- HTTP 
+- And many More
+
 
 A new Flutter project.
 
